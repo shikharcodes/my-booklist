@@ -14,11 +14,11 @@ This app uses the following tech stack:
 
 ## Purpose of the Project 🎯
 This project was developed by me while I was trying to learn Javascript.
-It will be helpful for someone who loves reading stuff and wants to store recommended list of books or books which one wants to read in future, to store an keep track of your reading checklist.
+It will be helpful for someone who loves reading stuff and wants to store recommended list of books or wishlist of books, to store an keep track of your reading checklist.
 
 
 I hope this app turns out to be useful. 
 
-If you like the project, please give a star ⭐ :)
+If this repository was useful for you, please give a star ⭐ :)
 
 
