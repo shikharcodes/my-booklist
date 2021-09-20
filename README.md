@@ -1,4 +1,4 @@
-# my-booklist App
+# My Booklist App
 
 ## About Project 📝
 This web app can be used to add and store the list of books that we are interested to read. It serves as an app in which we can add book names, add author names and add any particular information, links etc. related to that book. We can add and delete books from the app at our convenience.
