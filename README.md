@@ -16,8 +16,4 @@ This app uses the following tech stack:
 This project was developed by me, while I was trying to learn Javascript.
 It will be helpful for someone who loves reading stuff and wants to store recommended list of books or wishlist of books, to store and keep track of your reading checklist.
 
-
-I hope this app turns out to be useful. :)
-
-
-
+If you found this interesting, give it a ⭐ and connect with me on [Twitter](https://twitter.com/imshikhar06)!
